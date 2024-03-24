@@ -3,7 +3,8 @@
 <br>
 
 ## 작성자
-- ### 해당 내용은 @linjuuu 님꼐서 작성해주셨습니다!
+- ### 해당 내용은 @linjuuu 님께서 작성해주셨습니다!
+    - https://github.com/linjuuu
 
 <br><br>
 
